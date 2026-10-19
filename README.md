@@ -38,7 +38,7 @@ Make sure the following tools are installed:
 
 ```bash
 git clone https://github.com/mohanakannandev/Hotel-Management-System.git
-cd Hotel-Management
+cd Hotel-Management-System
 ```
 
 ### 2. Install PHP Dependencies
