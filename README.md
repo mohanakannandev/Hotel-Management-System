@@ -37,7 +37,7 @@ Make sure the following tools are installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mohanakannandev/Hotel-Management.git
+git clone https://github.com/mohanakannandev/Hotel-Management-System.git
 cd Hotel-Management
 ```
 
